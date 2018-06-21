@@ -23,7 +23,7 @@ $(function(){
             num++;
             num = num%lis.length;
             lunbo()
-        },1000)
+        },3000)
     }
     autoplay()
     // 移入移除
